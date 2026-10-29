@@ -1,0 +1,112 @@
+{
+  "scored_positions": [
+    {
+      "position": 110,
+      "structure": "A",
+      "sequence": "A",
+      "match": true
+    },
+    {
+      "position": 113,
+      "structure": "T",
+      "sequence": "T",
+      "match": true
+    },
+    {
+      "position": 114,
+      "structure": "I",
+      "sequence": "I",
+      "match": true
+    },
+    {
+      "position": 148,
+      "structure": "I",
+      "sequence": "I",
+      "match": true
+    },
+    {
+      "position": 149,
+      "structure": "W",
+      "sequence": "W",
+      "match": true
+    },
+    {
+      "position": 162,
+      "structure": "F",
+      "sequence": "F",
+      "match": true
+    },
+    {
+      "position": 165,
+      "structure": "G",
+      "sequence": "G",
+      "match": true
+    },
+    {
+      "position": 166,
+      "structure": "M",
+      "sequence": "M",
+      "match": true
+    },
+    {
+      "position": 169,
+      "structure": "D",
+      "sequence": "D",
+      "match": true
+    },
+    {
+      "position": 253,
+      "structure": "C",
+      "sequence": "C",
+      "match": true
+    },
+    {
+      "position": 256,
+      "structure": "H",
+      "sequence": "H",
+      "match": true
+    },
+    {
+      "position": 257,
+      "structure": "D",
+      "sequence": "D",
+      "match": true
+    },
+    {
+      "position": 303,
+      "structure": "L",
+      "sequence": "L",
+      "match": true
+    },
+    {
+      "position": 306,
+      "structure": "D",
+      "sequence": "D",
+      "match": true
+    },
+    {
+      "position": 307,
+      "structure": "M",
+      "sequence": "M",
+      "match": true
+    },
+    {
+      "position": 310,
+      "structure": "N",
+      "sequence": "N",
+      "match": true
+    },
+    {
+      "position": 311,
+      "structure": "T",
+      "sequence": "T",
+      "match": true
+    }
+  ],
+  "mismatched_positions": [],
+  "modelled_residues": 352,
+  "overlap_checked": 350,
+  "overlap_identical": 349,
+  "overlap_percent": 99.7,
+  "ok": true
+}

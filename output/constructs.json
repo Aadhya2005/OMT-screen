@@ -1,0 +1,124 @@
+[
+  {
+    "accession": "Q9LEL6",
+    "organism": "Coptis japonica",
+    "note": "Coptis japonica 6OMT, the published platform enzyme",
+    "protein_aa": 347,
+    "cds_nt": 1041,
+    "cai_naive": 0.6659954123448893,
+    "cai_optimised": 0.9838477609125706,
+    "gc_naive": 29.10662824207493,
+    "gc_optimised": 50.720461095100866,
+    "forbidden_sites_remaining": {},
+    "dropped_constraints": [],
+    "plasmid_bp": 6334,
+    "checks_passed": 8,
+    "checks_total": 8,
+    "all_passed": true,
+    "heterodimer_dG": -5.07,
+    "primer_warnings": [
+      "Q9LEL6_NdeI_F"
+    ],
+    "expressed_aa": 375,
+    "n_terminal_leader": "MGSSHHHHHHSSGLVPRGSH",
+    "files": [
+      "pET28a_Q9LEL6.gb",
+      "pET28a_Q9LEL6_CDS.fasta",
+      "pET28a_Q9LEL6_primers.csv"
+    ],
+    "screen_rank": 7,
+    "site_score": 93.2
+  },
+  {
+    "accession": "Q5C9L7",
+    "organism": "Thalictrum flavum subsp. glaucum",
+    "note": "Thalictrum flavum 6OMT, the sequence 5ICE was solved from",
+    "protein_aa": 350,
+    "cds_nt": 1050,
+    "cai_naive": 0.6660624738301533,
+    "cai_optimised": 0.9872068473560152,
+    "gc_naive": 28.0,
+    "gc_optimised": 49.61904761904762,
+    "forbidden_sites_remaining": {},
+    "dropped_constraints": [
+      "AvoidHairpins at 0-60",
+      "AvoidHairpins at 990-1050"
+    ],
+    "plasmid_bp": 6343,
+    "checks_passed": 8,
+    "checks_total": 8,
+    "all_passed": true,
+    "heterodimer_dG": -2.84,
+    "primer_warnings": [
+      "Q5C9L7_NdeI_F"
+    ],
+    "expressed_aa": 378,
+    "n_terminal_leader": "MGSSHHHHHHSSGLVPRGSH",
+    "files": [
+      "pET28a_Q5C9L7.gb",
+      "pET28a_Q5C9L7_CDS.fasta",
+      "pET28a_Q5C9L7_primers.csv"
+    ],
+    "screen_rank": 1,
+    "site_score": 100.0
+  },
+  {
+    "accession": "Q6WUC1",
+    "organism": "Papaver somniferum",
+    "note": "Papaver somniferum 6OMT",
+    "protein_aa": 346,
+    "cds_nt": 1038,
+    "cai_naive": 0.6534495072049787,
+    "cai_optimised": 0.98832232437109,
+    "gc_naive": 28.709055876685934,
+    "gc_optimised": 50.67437379576108,
+    "forbidden_sites_remaining": {},
+    "dropped_constraints": [
+      "AvoidHairpins at 0-60",
+      "AvoidHairpins at 978-1038"
+    ],
+    "plasmid_bp": 6331,
+    "checks_passed": 8,
+    "checks_total": 8,
+    "all_passed": true,
+    "heterodimer_dG": -5.86,
+    "primer_warnings": [],
+    "expressed_aa": 374,
+    "n_terminal_leader": "MGSSHHHHHHSSGLVPRGSH",
+    "files": [
+      "pET28a_Q6WUC1.gb",
+      "pET28a_Q6WUC1_CDS.fasta",
+      "pET28a_Q6WUC1_primers.csv"
+    ],
+    "screen_rank": 19,
+    "site_score": 93.2
+  },
+  {
+    "accession": "A0A0B4VG62",
+    "organism": "Sinopodophyllum hexandrum",
+    "note": "Sinopodophyllum hexandrum, annotated 6OMT, uncharacterised",
+    "protein_aa": 350,
+    "cds_nt": 1050,
+    "cai_naive": 0.6756234632847979,
+    "cai_optimised": 0.9630491274555101,
+    "gc_naive": 28.666666666666668,
+    "gc_optimised": 50.0,
+    "forbidden_sites_remaining": {},
+    "dropped_constraints": [],
+    "plasmid_bp": 6343,
+    "checks_passed": 8,
+    "checks_total": 8,
+    "all_passed": true,
+    "heterodimer_dG": -7.48,
+    "primer_warnings": [],
+    "expressed_aa": 378,
+    "n_terminal_leader": "MGSSHHHHHHSSGLVPRGSH",
+    "files": [
+      "pET28a_A0A0B4VG62.gb",
+      "pET28a_A0A0B4VG62_CDS.fasta",
+      "pET28a_A0A0B4VG62_primers.csv"
+    ],
+    "screen_rank": 31,
+    "site_score": 88.6
+  }
+]

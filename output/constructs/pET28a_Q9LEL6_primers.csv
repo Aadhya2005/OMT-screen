@@ -1,0 +1,4 @@
+Name,Sequence (5'->3'),Length,Anneal Tm (C),Full Tm (C),Anneal GC (%),Hairpin dG (kcal/mol),Self-dimer dG (kcal/mol),Purpose,Warnings
+Q9LEL6_NdeI_F,GGAATTCATATGGAAGTGAAAAAAGACAACTTAAGCAGCC,40,62.0,67.8,39.0,-0.1,-5.1,"5' cloning primer, adds NdeI site",annealing GC 39% is outside 40-60%; run of 5+ A
+Q9LEL6_XhoI_R,CGCGGCCTCGAGATACGGATACGCTTCAATCACGC,35,61.4,75.1,48.0,-2.0,-7.1,"3' cloning primer, adds XhoI site, stop codon omitted",none
+Q9LEL6_seq_F1,TCTGAAACGCTGCAAAGAAGC,21,60.0,60.0,48.0,-0.0,-4.3,"internal sequencing primer, anneals at CDS position 789",none

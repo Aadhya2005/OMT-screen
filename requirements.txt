@@ -1,0 +1,8 @@
+biopython>=1.83
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+primer3-py>=2.0
+dnachisel>=3.2
+python_codon_tables>=0.1
+scipy>=1.10

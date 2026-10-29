@@ -1,0 +1,51 @@
+{
+  "reference": {
+    "accession": "Q5C9L7",
+    "organism": "Thalictrum flavum subsp. glaucum",
+    "length": 350
+  },
+  "positions_scored": [
+    110,
+    113,
+    114,
+    148,
+    149,
+    162,
+    166,
+    169,
+    256,
+    257,
+    303,
+    306,
+    307,
+    310,
+    311
+  ],
+  "positions_excluded_backbone": [
+    165,
+    253
+  ],
+  "weights": {
+    "110": 1.0,
+    "113": 1.0,
+    "114": 1.0,
+    "148": 1.0,
+    "149": 1.0,
+    "162": 1.0,
+    "166": 1.0,
+    "169": 2.0,
+    "256": 3.0,
+    "257": 3.0,
+    "303": 1.0,
+    "306": 2.0,
+    "307": 1.0,
+    "310": 2.0,
+    "311": 1.0
+  },
+  "total_weight": 22.0,
+  "candidates": 39967,
+  "thresholds": {
+    "min_identity": 25.0,
+    "min_coverage": 60.0
+  }
+}

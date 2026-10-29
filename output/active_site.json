@@ -1,0 +1,598 @@
+{
+  "structure": "5ICE",
+  "uniprot": "Q5C9L7",
+  "organism": "Thalictrum flavum subsp. glaucum",
+  "note": "single chain; contacts are single observations, not replicated",
+  "acceptor": {
+    "atom": "OAC",
+    "oxygens": [
+      {
+        "atom": "OAC",
+        "dist_to_SD": 3.4
+      },
+      {
+        "atom": "OAD",
+        "dist_to_SD": 4.59
+      },
+      {
+        "atom": "OAB",
+        "dist_to_SD": 8.69
+      },
+      {
+        "atom": "OAA",
+        "dist_to_SD": 9.38
+      }
+    ]
+  },
+  "acceptor_neighbours": [
+    {
+      "residue": "Asp257",
+      "resnum": 257,
+      "aa": "D",
+      "atom": "OD1",
+      "dist": 2.64
+    },
+    {
+      "residue": "His256",
+      "resnum": 256,
+      "aa": "H",
+      "atom": "NE2",
+      "dist": 2.99
+    },
+    {
+      "residue": "Cys253",
+      "resnum": 253,
+      "aa": "C",
+      "atom": "O",
+      "dist": 3.2
+    },
+    {
+      "residue": "Asp257",
+      "resnum": 257,
+      "aa": "D",
+      "atom": "OD2",
+      "dist": 3.26
+    }
+  ],
+  "substrate_pocket": [
+    {
+      "residue": "Asp257",
+      "resnum": 257,
+      "aa": "D",
+      "min_dist": 2.64,
+      "protein_atom": "OD1"
+    },
+    {
+      "residue": "Asp306",
+      "resnum": 306,
+      "aa": "D",
+      "min_dist": 2.68,
+      "protein_atom": "OD1"
+    },
+    {
+      "residue": "Asp169",
+      "resnum": 169,
+      "aa": "D",
+      "min_dist": 2.71,
+      "protein_atom": "OD1"
+    },
+    {
+      "residue": "His256",
+      "resnum": 256,
+      "aa": "H",
+      "min_dist": 2.99,
+      "protein_atom": "NE2"
+    },
+    {
+      "residue": "Gly165",
+      "resnum": 165,
+      "aa": "G",
+      "min_dist": 3.02,
+      "protein_atom": "O"
+    },
+    {
+      "residue": "Cys253",
+      "resnum": 253,
+      "aa": "C",
+      "min_dist": 3.2,
+      "protein_atom": "O"
+    },
+    {
+      "residue": "Met166",
+      "resnum": 166,
+      "aa": "M",
+      "min_dist": 3.29,
+      "protein_atom": "CE"
+    },
+    {
+      "residue": "Ala110",
+      "resnum": 110,
+      "aa": "A",
+      "min_dist": 3.4,
+      "protein_atom": "CB"
+    },
+    {
+      "residue": "Ile114",
+      "resnum": 114,
+      "aa": "I",
+      "min_dist": 3.54,
+      "protein_atom": "CG1"
+    },
+    {
+      "residue": "Phe162",
+      "resnum": 162,
+      "aa": "F",
+      "min_dist": 3.57,
+      "protein_atom": "CE1"
+    },
+    {
+      "residue": "Asn310",
+      "resnum": 310,
+      "aa": "N",
+      "min_dist": 3.64,
+      "protein_atom": "OD1"
+    },
+    {
+      "residue": "Met307",
+      "resnum": 307,
+      "aa": "M",
+      "min_dist": 3.65,
+      "protein_atom": "CE"
+    },
+    {
+      "residue": "Ile148",
+      "resnum": 148,
+      "aa": "I",
+      "min_dist": 3.68,
+      "protein_atom": "CD1"
+    },
+    {
+      "residue": "Thr311",
+      "resnum": 311,
+      "aa": "T",
+      "min_dist": 3.84,
+      "protein_atom": "CG2"
+    },
+    {
+      "residue": "Thr113",
+      "resnum": 113,
+      "aa": "T",
+      "min_dist": 4.0,
+      "protein_atom": "CB"
+    },
+    {
+      "residue": "Leu303",
+      "resnum": 303,
+      "aa": "L",
+      "min_dist": 4.18,
+      "protein_atom": "CD1"
+    },
+    {
+      "residue": "Trp149",
+      "resnum": 149,
+      "aa": "W",
+      "min_dist": 4.39,
+      "protein_atom": "CH2"
+    }
+  ],
+  "cofactor_pocket": [
+    {
+      "residue": "Asp218",
+      "resnum": 218,
+      "aa": "D",
+      "min_dist": 2.62,
+      "protein_atom": "OD1"
+    },
+    {
+      "residue": "Thr170",
+      "resnum": 170,
+      "aa": "T",
+      "min_dist": 2.63,
+      "protein_atom": "OG1"
+    },
+    {
+      "residue": "Asp238",
+      "resnum": 238,
+      "aa": "D",
+      "min_dist": 2.8,
+      "protein_atom": "OD1"
+    },
+    {
+      "residue": "Lys252",
+      "resnum": 252,
+      "aa": "K",
+      "min_dist": 2.81,
+      "protein_atom": "O"
+    },
+    {
+      "residue": "Gly195",
+      "resnum": 195,
+      "aa": "G",
+      "min_dist": 2.83,
+      "protein_atom": "O"
+    },
+    {
+      "residue": "Met239",
+      "resnum": 239,
+      "aa": "M",
+      "min_dist": 2.91,
+      "protein_atom": "N"
+    },
+    {
+      "residue": "Met166",
+      "resnum": 166,
+      "aa": "M",
+      "min_dist": 3.07,
+      "protein_atom": "O"
+    },
+    {
+      "residue": "Asp257",
+      "resnum": 257,
+      "aa": "D",
+      "min_dist": 3.31,
+      "protein_atom": "OD2"
+    },
+    {
+      "residue": "Val222",
+      "resnum": 222,
+      "aa": "V",
+      "min_dist": 3.36,
+      "protein_atom": "CG2"
+    },
+    {
+      "residue": "Ile254",
+      "resnum": 254,
+      "aa": "I",
+      "min_dist": 3.51,
+      "protein_atom": "CD1"
+    },
+    {
+      "residue": "Cys253",
+      "resnum": 253,
+      "aa": "C",
+      "min_dist": 3.62,
+      "protein_atom": "CB"
+    },
+    {
+      "residue": "Leu219",
+      "resnum": 219,
+      "aa": "L",
+      "min_dist": 3.64,
+      "protein_atom": "CD1"
+    },
+    {
+      "residue": "Trp258",
+      "resnum": 258,
+      "aa": "W",
+      "min_dist": 3.7,
+      "protein_atom": "CZ2"
+    },
+    {
+      "residue": "Gly237",
+      "resnum": 237,
+      "aa": "G",
+      "min_dist": 3.73,
+      "protein_atom": "O"
+    },
+    {
+      "residue": "Trp149",
+      "resnum": 149,
+      "aa": "W",
+      "min_dist": 3.77,
+      "protein_atom": "CZ3"
+    },
+    {
+      "residue": "Phe240",
+      "resnum": 240,
+      "aa": "F",
+      "min_dist": 3.79,
+      "protein_atom": "CD2"
+    },
+    {
+      "residue": "Gly197",
+      "resnum": 197,
+      "aa": "G",
+      "min_dist": 3.91,
+      "protein_atom": "CA"
+    },
+    {
+      "residue": "Gly196",
+      "resnum": 196,
+      "aa": "G",
+      "min_dist": 3.96,
+      "protein_atom": "CA"
+    },
+    {
+      "residue": "Phe162",
+      "resnum": 162,
+      "aa": "F",
+      "min_dist": 4.07,
+      "protein_atom": "CZ"
+    },
+    {
+      "residue": "Ala167",
+      "resnum": 167,
+      "aa": "A",
+      "min_dist": 4.4,
+      "protein_atom": "N"
+    }
+  ],
+  "both_pockets": [
+    149,
+    162,
+    166,
+    253,
+    257
+  ],
+  "apo_holo": {
+    "superposition_rmsd": 3.24,
+    "atoms_fitted": 323,
+    "median_ca_shift_whole_chain": 2.28,
+    "median_ca_shift_pocket": 2.64,
+    "conclusive": false,
+    "verdict": "apo and holo differ as much globally as at the pocket; no induced-fit claim is supported by these two structures",
+    "shifts": [
+      {
+        "residue": "Val222",
+        "resnum": 222,
+        "ca_shift": 13.94,
+        "sidechain_shift": 15.82
+      },
+      {
+        "residue": "Leu219",
+        "resnum": 219,
+        "ca_shift": 8.44,
+        "sidechain_shift": 9.8
+      },
+      {
+        "residue": "Asp218",
+        "resnum": 218,
+        "ca_shift": 5.77,
+        "sidechain_shift": 6.67
+      },
+      {
+        "residue": "Trp149",
+        "resnum": 149,
+        "ca_shift": 6.28,
+        "sidechain_shift": 6.58
+      },
+      {
+        "residue": "Ile148",
+        "resnum": 148,
+        "ca_shift": 5.11,
+        "sidechain_shift": 4.51
+      },
+      {
+        "residue": "Lys252",
+        "resnum": 252,
+        "ca_shift": 2.49,
+        "sidechain_shift": 4.47
+      },
+      {
+        "residue": "Asp169",
+        "resnum": 169,
+        "ca_shift": 3.05,
+        "sidechain_shift": 4.2
+      },
+      {
+        "residue": "Trp258",
+        "resnum": 258,
+        "ca_shift": 2.96,
+        "sidechain_shift": 3.76
+      },
+      {
+        "residue": "Phe162",
+        "resnum": 162,
+        "ca_shift": 3.12,
+        "sidechain_shift": 3.34
+      },
+      {
+        "residue": "Thr170",
+        "resnum": 170,
+        "ca_shift": 3.16,
+        "sidechain_shift": 3.11
+      },
+      {
+        "residue": "Ala167",
+        "resnum": 167,
+        "ca_shift": 2.76,
+        "sidechain_shift": 2.83
+      },
+      {
+        "residue": "Thr113",
+        "resnum": 113,
+        "ca_shift": 2.53,
+        "sidechain_shift": 2.74
+      },
+      {
+        "residue": "Ile254",
+        "resnum": 254,
+        "ca_shift": 2.42,
+        "sidechain_shift": 2.61
+      },
+      {
+        "residue": "Cys253",
+        "resnum": 253,
+        "ca_shift": 2.52,
+        "sidechain_shift": 2.55
+      },
+      {
+        "residue": "Ala110",
+        "resnum": 110,
+        "ca_shift": 2.28,
+        "sidechain_shift": 2.41
+      },
+      {
+        "residue": "His256",
+        "resnum": 256,
+        "ca_shift": 1.93,
+        "sidechain_shift": 2.32
+      },
+      {
+        "residue": "Leu303",
+        "resnum": 303,
+        "ca_shift": 1.7,
+        "sidechain_shift": 2.09
+      },
+      {
+        "residue": "Asn310",
+        "resnum": 310,
+        "ca_shift": 1.67,
+        "sidechain_shift": 2.03
+      },
+      {
+        "residue": "Met307",
+        "resnum": 307,
+        "ca_shift": 1.68,
+        "sidechain_shift": 1.98
+      },
+      {
+        "residue": "Asp257",
+        "resnum": 257,
+        "ca_shift": 2.37,
+        "sidechain_shift": 1.95
+      },
+      {
+        "residue": "Asp306",
+        "resnum": 306,
+        "ca_shift": 1.4,
+        "sidechain_shift": 1.91
+      },
+      {
+        "residue": "Thr311",
+        "resnum": 311,
+        "ca_shift": 2.02,
+        "sidechain_shift": 1.9
+      },
+      {
+        "residue": "Met166",
+        "resnum": 166,
+        "ca_shift": 2.36,
+        "sidechain_shift": 1.87
+      },
+      {
+        "residue": "Ile114",
+        "resnum": 114,
+        "ca_shift": 1.77,
+        "sidechain_shift": 1.73
+      },
+      {
+        "residue": "Gly165",
+        "resnum": 165,
+        "ca_shift": 2.82,
+        "sidechain_shift": null
+      },
+      {
+        "residue": "Gly195",
+        "resnum": 195,
+        "ca_shift": 3.47,
+        "sidechain_shift": null
+      },
+      {
+        "residue": "Gly196",
+        "resnum": 196,
+        "ca_shift": 3.81,
+        "sidechain_shift": null
+      },
+      {
+        "residue": "Gly197",
+        "resnum": 197,
+        "ca_shift": 6.77,
+        "sidechain_shift": null
+      }
+    ],
+    "absent_in_apo": [
+      237,
+      238,
+      239,
+      240
+    ]
+  },
+  "scored_positions": [
+    {
+      "resnum": 110,
+      "aa": "A",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 113,
+      "aa": "T",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 114,
+      "aa": "I",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 148,
+      "aa": "I",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 149,
+      "aa": "W",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 162,
+      "aa": "F",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 165,
+      "aa": "G",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 166,
+      "aa": "M",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 169,
+      "aa": "D",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 253,
+      "aa": "C",
+      "role": "acceptor neighbour"
+    },
+    {
+      "resnum": 256,
+      "aa": "H",
+      "role": "acceptor neighbour"
+    },
+    {
+      "resnum": 257,
+      "aa": "D",
+      "role": "acceptor neighbour"
+    },
+    {
+      "resnum": 303,
+      "aa": "L",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 306,
+      "aa": "D",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 307,
+      "aa": "M",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 310,
+      "aa": "N",
+      "role": "substrate pocket"
+    },
+    {
+      "resnum": 311,
+      "aa": "T",
+      "role": "substrate pocket"
+    }
+  ]
+}

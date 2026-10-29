@@ -1,0 +1,1134 @@
+{
+  "candidates": 39967,
+  "positives": [
+    {
+      "accession": "Q5C9L7",
+      "rank": 1,
+      "score": 100.0,
+      "organism": "Thalictrum flavum subsp. glaucum"
+    },
+    {
+      "accession": "Q9LEL6",
+      "rank": 7,
+      "score": 93.2,
+      "organism": "Coptis japonica"
+    },
+    {
+      "accession": "Q6WUC1",
+      "rank": 19,
+      "score": 93.2,
+      "organism": "Papaver somniferum"
+    }
+  ],
+  "near_misses": [
+    {
+      "accession": "A0A7T8G1S1",
+      "rank": 665,
+      "score": 65.9,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABD2YTZ2",
+      "rank": 667,
+      "score": 65.9,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "D3KY99",
+      "rank": 1362,
+      "score": 63.6,
+      "name": "7'-O-demethylcephaeline 7'-O-methyltransferase IpeOMT2"
+    },
+    {
+      "accession": "D4QGR7",
+      "rank": 1369,
+      "score": 63.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6S508",
+      "rank": 1375,
+      "score": 63.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6SBU6",
+      "rank": 1376,
+      "score": 63.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "D4QGR4",
+      "rank": 1393,
+      "score": 63.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068V7K8",
+      "rank": 1402,
+      "score": 63.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "E7FL15",
+      "rank": 1428,
+      "score": 63.6,
+      "name": "Cephaeline 6'-O-methyltransferase CiOMT"
+    },
+    {
+      "accession": "A0A068VAP6",
+      "rank": 1870,
+      "score": 61.4,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABD2YQU8",
+      "rank": 1906,
+      "score": 61.4,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABD2YTE8",
+      "rank": 1907,
+      "score": 61.4,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6S6U0",
+      "rank": 2894,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068V5E5",
+      "rank": 2921,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6SGX5",
+      "rank": 2960,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6SCI7",
+      "rank": 3004,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6S738",
+      "rank": 3045,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6S969",
+      "rank": 3046,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6SKU0",
+      "rank": 3047,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4UF31",
+      "rank": 3050,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0AAV1C3B9",
+      "rank": 3104,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6S814",
+      "rank": 3114,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6SC52",
+      "rank": 3115,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6SP24",
+      "rank": 3116,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6XIX6",
+      "rank": 3166,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068VJ83",
+      "rank": 3202,
+      "score": 59.1,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "D3KY98",
+      "rank": 3535,
+      "score": 59.1,
+      "name": "Cephaeline 6'-O-methyltransferase IpeOMT1"
+    },
+    {
+      "accession": "A0A068VPF0",
+      "rank": 4200,
+      "score": 56.8,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6S783",
+      "rank": 4379,
+      "score": 56.8,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068VGN9",
+      "rank": 4494,
+      "score": 56.8,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6S892",
+      "rank": 4496,
+      "score": 56.8,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068VG91",
+      "rank": 4764,
+      "score": 56.8,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6S9W8",
+      "rank": 4768,
+      "score": 56.8,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6XMU4",
+      "rank": 4845,
+      "score": 56.8,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABD2YPH7",
+      "rank": 5858,
+      "score": 54.5,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABD3B5N7",
+      "rank": 6169,
+      "score": 54.5,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068TW36",
+      "rank": 6238,
+      "score": 54.5,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0AAV1C1A8",
+      "rank": 6621,
+      "score": 54.5,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0AAV1C4G6",
+      "rank": 6670,
+      "score": 54.5,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0AAV1DK70",
+      "rank": 7209,
+      "score": 52.3,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0AAV1EAU9",
+      "rank": 7210,
+      "score": 52.3,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0AAV1DMW7",
+      "rank": 7322,
+      "score": 52.3,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068V5T2",
+      "rank": 7921,
+      "score": 50.0,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4UAD6",
+      "rank": 8030,
+      "score": 50.0,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068VH01",
+      "rank": 8100,
+      "score": 50.0,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068VLH5",
+      "rank": 8717,
+      "score": 47.7,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6S871",
+      "rank": 8821,
+      "score": 47.7,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6WJU7",
+      "rank": 8826,
+      "score": 47.7,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068VME9",
+      "rank": 8891,
+      "score": 47.7,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X456",
+      "rank": 8901,
+      "score": 47.7,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X480",
+      "rank": 8916,
+      "score": 47.7,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6SBV2",
+      "rank": 10275,
+      "score": 43.2,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6SD12",
+      "rank": 10276,
+      "score": 43.2,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X455",
+      "rank": 10289,
+      "score": 43.2,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6WWC3",
+      "rank": 10290,
+      "score": 43.2,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068VMA2",
+      "rank": 10311,
+      "score": 43.2,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6WWV0",
+      "rank": 10312,
+      "score": 43.2,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X476",
+      "rank": 10313,
+      "score": 43.2,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABD2YPH5",
+      "rank": 10335,
+      "score": 43.2,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X496",
+      "rank": 10883,
+      "score": 40.9,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X487",
+      "rank": 10890,
+      "score": 40.9,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X478",
+      "rank": 10897,
+      "score": 40.9,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X472",
+      "rank": 10905,
+      "score": 40.9,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068VG81",
+      "rank": 10922,
+      "score": 40.9,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X468",
+      "rank": 11386,
+      "score": 38.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X457",
+      "rank": 11398,
+      "score": 38.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6WT03",
+      "rank": 11414,
+      "score": 38.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A068VLT8",
+      "rank": 11416,
+      "score": 38.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6WR62",
+      "rank": 11417,
+      "score": 38.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0A6P6WWC7",
+      "rank": 11418,
+      "score": 38.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4VNZ8",
+      "rank": 11420,
+      "score": 38.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X461",
+      "rank": 11421,
+      "score": 38.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X479",
+      "rank": 11422,
+      "score": 38.6,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    },
+    {
+      "accession": "A0ABM4X466",
+      "rank": 13276,
+      "score": 29.5,
+      "name": "7'-O-demethylcephaeline methyltransferase"
+    }
+  ],
+  "putative": [
+    {
+      "accession": "A0A7J6V4Z0",
+      "rank": 2,
+      "score": 100.0
+    },
+    {
+      "accession": "A0A3S4N5M8",
+      "rank": 12,
+      "score": 93.2
+    },
+    {
+      "accession": "A0A0H4BJ94",
+      "rank": 13,
+      "score": 93.2
+    },
+    {
+      "accession": "A0A443N3I4",
+      "rank": 14,
+      "score": 93.2
+    },
+    {
+      "accession": "C3SBT9",
+      "rank": 17,
+      "score": 93.2
+    },
+    {
+      "accession": "A0A0H4BD76",
+      "rank": 20,
+      "score": 93.2
+    },
+    {
+      "accession": "A0A3S3MP54",
+      "rank": 23,
+      "score": 93.2
+    },
+    {
+      "accession": "A0A0B4VG62",
+      "rank": 31,
+      "score": 88.6
+    },
+    {
+      "accession": "A0A1U7ZJF3",
+      "rank": 40,
+      "score": 86.4
+    },
+    {
+      "accession": "A0A3G1RSB6",
+      "rank": 41,
+      "score": 86.4
+    },
+    {
+      "accession": "A0A7J6WYV3",
+      "rank": 49,
+      "score": 84.1
+    },
+    {
+      "accession": "C3SBV8",
+      "rank": 70,
+      "score": 81.8
+    },
+    {
+      "accession": "A0A1U7YUK0",
+      "rank": 74,
+      "score": 79.5
+    },
+    {
+      "accession": "A0A3G1RSC4",
+      "rank": 75,
+      "score": 79.5
+    },
+    {
+      "accession": "A0A1U7Z9Y7",
+      "rank": 78,
+      "score": 79.5
+    },
+    {
+      "accession": "A0A3G1RSE2",
+      "rank": 79,
+      "score": 79.5
+    },
+    {
+      "accession": "A0A7J6W7F7",
+      "rank": 86,
+      "score": 77.3
+    },
+    {
+      "accession": "C3SBT1",
+      "rank": 87,
+      "score": 77.3
+    },
+    {
+      "accession": "A0ABM0P908",
+      "rank": 137,
+      "score": 72.7
+    },
+    {
+      "accession": "A0A6P5S751",
+      "rank": 139,
+      "score": 72.7
+    },
+    {
+      "accession": "A0ABM0P948",
+      "rank": 201,
+      "score": 70.5
+    },
+    {
+      "accession": "A0ABM0P906",
+      "rank": 205,
+      "score": 70.5
+    },
+    {
+      "accession": "A0A5N5FHM1",
+      "rank": 221,
+      "score": 70.5
+    },
+    {
+      "accession": "A0A5N5IB11",
+      "rank": 225,
+      "score": 70.5
+    },
+    {
+      "accession": "A0A1U8AUT3",
+      "rank": 317,
+      "score": 68.2
+    },
+    {
+      "accession": "A0A3G1RSF0",
+      "rank": 318,
+      "score": 68.2
+    },
+    {
+      "accession": "A0A2R6RNG0",
+      "rank": 354,
+      "score": 68.2
+    },
+    {
+      "accession": "A0ABM0P907",
+      "rank": 364,
+      "score": 68.2
+    },
+    {
+      "accession": "A0A0B0NI22",
+      "rank": 383,
+      "score": 68.2
+    },
+    {
+      "accession": "A0A5N5I813",
+      "rank": 587,
+      "score": 65.9
+    },
+    {
+      "accession": "A0A5N5FSP4",
+      "rank": 599,
+      "score": 65.9
+    },
+    {
+      "accession": "A0A6P5S028",
+      "rank": 600,
+      "score": 65.9
+    },
+    {
+      "accession": "A0AAW1Y8R0",
+      "rank": 628,
+      "score": 65.9
+    },
+    {
+      "accession": "A0A5N5I995",
+      "rank": 637,
+      "score": 65.9
+    },
+    {
+      "accession": "A0A5N5IFA2",
+      "rank": 638,
+      "score": 65.9
+    },
+    {
+      "accession": "A0A0B0MF50",
+      "rank": 674,
+      "score": 65.9
+    },
+    {
+      "accession": "A0AAJ6VC85",
+      "rank": 696,
+      "score": 65.9
+    },
+    {
+      "accession": "A0ABM0P904",
+      "rank": 697,
+      "score": 65.9
+    },
+    {
+      "accession": "A0ABM0U8I0",
+      "rank": 705,
+      "score": 65.9
+    },
+    {
+      "accession": "A0ABM0UVJ7",
+      "rank": 706,
+      "score": 65.9
+    },
+    {
+      "accession": "A0A5B6UU92",
+      "rank": 721,
+      "score": 65.9
+    },
+    {
+      "accession": "A0ABR0ML18",
+      "rank": 758,
+      "score": 65.9
+    },
+    {
+      "accession": "A0A1U8DZ84",
+      "rank": 840,
+      "score": 65.9
+    },
+    {
+      "accession": "A0A371HNY6",
+      "rank": 1018,
+      "score": 65.9
+    },
+    {
+      "accession": "A0A0B0P4D9",
+      "rank": 1876,
+      "score": 61.4
+    },
+    {
+      "accession": "A0A6J1I061",
+      "rank": 2072,
+      "score": 61.4
+    },
+    {
+      "accession": "A0A6J1GLV5",
+      "rank": 2138,
+      "score": 61.4
+    },
+    {
+      "accession": "A0A061DXX0",
+      "rank": 2969,
+      "score": 59.1
+    },
+    {
+      "accession": "A0A443PNC7",
+      "rank": 3529,
+      "score": 59.1
+    },
+    {
+      "accession": "W9R6E3",
+      "rank": 4139,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A443PUZ8",
+      "rank": 4152,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A0B4VGY7",
+      "rank": 4154,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A6J1JMC1",
+      "rank": 4361,
+      "score": 56.8
+    },
+    {
+      "accession": "W9QW44",
+      "rank": 4468,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A6P5EKU3",
+      "rank": 4471,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A6I9U6T7",
+      "rank": 4604,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A8S0RKQ8",
+      "rank": 4606,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A8S0RRI6",
+      "rank": 4607,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A6J1C6X0",
+      "rank": 4616,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A6I9U248",
+      "rank": 4687,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A2Z7CVL3",
+      "rank": 4727,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A2I0VTS8",
+      "rank": 4838,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A830BFQ3",
+      "rank": 4839,
+      "score": 56.8
+    },
+    {
+      "accession": "A0A6J1HWX9",
+      "rank": 5181,
+      "score": 56.8
+    },
+    {
+      "accession": "C3SBU9",
+      "rank": 5646,
+      "score": 54.5
+    },
+    {
+      "accession": "A0A6P5S470",
+      "rank": 5768,
+      "score": 54.5
+    },
+    {
+      "accession": "A0A0B0NL36",
+      "rank": 6014,
+      "score": 54.5
+    },
+    {
+      "accession": "W9R6D6",
+      "rank": 7031,
+      "score": 52.3
+    },
+    {
+      "accession": "A0A1U8AWH6",
+      "rank": 7144,
+      "score": 52.3
+    },
+    {
+      "accession": "W9QRI7",
+      "rank": 7248,
+      "score": 52.3
+    },
+    {
+      "accession": "A0A2H9ZXJ9",
+      "rank": 7554,
+      "score": 52.3
+    },
+    {
+      "accession": "A0A1U8B8U4",
+      "rank": 7870,
+      "score": 50.0
+    },
+    {
+      "accession": "A0A830BD12",
+      "rank": 7980,
+      "score": 50.0
+    },
+    {
+      "accession": "A0A6J1GNG0",
+      "rank": 8017,
+      "score": 50.0
+    },
+    {
+      "accession": "A0A1U8Q9U6",
+      "rank": 8684,
+      "score": 47.7
+    },
+    {
+      "accession": "A0A822XNJ7",
+      "rank": 8685,
+      "score": 47.7
+    },
+    {
+      "accession": "A0A1U8Q9U7",
+      "rank": 8686,
+      "score": 47.7
+    },
+    {
+      "accession": "A0A6J1GLX2",
+      "rank": 8813,
+      "score": 47.7
+    },
+    {
+      "accession": "A0A2H9ZXL5",
+      "rank": 9074,
+      "score": 47.7
+    },
+    {
+      "accession": "A0AAJ6VC95",
+      "rank": 9593,
+      "score": 45.5
+    },
+    {
+      "accession": "A0A822XYP8",
+      "rank": 10123,
+      "score": 43.2
+    },
+    {
+      "accession": "A0A2H9ZXN1",
+      "rank": 10623,
+      "score": 43.2
+    },
+    {
+      "accession": "C3SBU6",
+      "rank": 10766,
+      "score": 40.9
+    },
+    {
+      "accession": "A0A822XZY7",
+      "rank": 10792,
+      "score": 40.9
+    },
+    {
+      "accession": "A0A0B0P3H3",
+      "rank": 10828,
+      "score": 40.9
+    },
+    {
+      "accession": "A0ABM0P909",
+      "rank": 11393,
+      "score": 38.6
+    },
+    {
+      "accession": "A0A2H9ZXN3",
+      "rank": 12037,
+      "score": 36.4
+    },
+    {
+      "accession": "A0A3S3QMX0",
+      "rank": 12273,
+      "score": 34.1
+    },
+    {
+      "accession": "A0A2H9ZXY9",
+      "rank": 12469,
+      "score": 34.1
+    },
+    {
+      "accession": "A0A3S4P872",
+      "rank": 13224,
+      "score": 29.5
+    },
+    {
+      "accession": "A0A6P5S9I2",
+      "rank": 13696,
+      "score": 27.3
+    },
+    {
+      "accession": "A0A3S3N2B9",
+      "rank": 14185,
+      "score": 25.0
+    },
+    {
+      "accession": "A0A2H9ZVC9",
+      "rank": 14206,
+      "score": 25.0
+    },
+    {
+      "accession": "W9R7L8",
+      "rank": 14257,
+      "score": 25.0
+    },
+    {
+      "accession": "A0ABM0P910",
+      "rank": 14261,
+      "score": 25.0
+    },
+    {
+      "accession": "W9R5X3",
+      "rank": 14541,
+      "score": 22.7
+    },
+    {
+      "accession": "A0A6P5S9B6",
+      "rank": 14971,
+      "score": 20.5
+    },
+    {
+      "accession": "A0A0B0NXC8",
+      "rank": 15414,
+      "score": 18.2
+    },
+    {
+      "accession": "A0A6A2WT53",
+      "rank": 15531,
+      "score": 18.2
+    },
+    {
+      "accession": "W9SF28",
+      "rank": 15961,
+      "score": 15.9
+    },
+    {
+      "accession": "A0ABR0QE45",
+      "rank": 15979,
+      "score": 15.9
+    },
+    {
+      "accession": "A0A5B6WP29",
+      "rank": 16048,
+      "score": 15.9
+    },
+    {
+      "accession": "A0A392NN41",
+      "rank": 16679,
+      "score": 13.6
+    },
+    {
+      "accession": "A0A6A3BJJ9",
+      "rank": 16860,
+      "score": 13.6
+    },
+    {
+      "accession": "A0A8S0RJW4",
+      "rank": 17343,
+      "score": 11.4
+    },
+    {
+      "accession": "A0A1L2YZG3",
+      "rank": 17831,
+      "score": 9.1
+    },
+    {
+      "accession": "A0A822XN97",
+      "rank": 18688,
+      "score": 6.8
+    },
+    {
+      "accession": "Q9S8K8",
+      "rank": 18984,
+      "score": 6.8
+    },
+    {
+      "accession": "C3SBV0",
+      "rank": 20975,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A3S3NG35",
+      "rank": 21968,
+      "score": 0.0
+    },
+    {
+      "accession": "A0ABM2ZIV0",
+      "rank": 22585,
+      "score": 0.0
+    },
+    {
+      "accession": "Q9S8K7",
+      "rank": 23589,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A6A2YHS5",
+      "rank": 25839,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A2Z7AKP6",
+      "rank": 28156,
+      "score": 0.0
+    },
+    {
+      "accession": "A0AAD8N515",
+      "rank": 28712,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A6A3DAU7",
+      "rank": 29409,
+      "score": 0.0
+    },
+    {
+      "accession": "A0AAD8JJ31",
+      "rank": 30659,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A6A3CT34",
+      "rank": 32694,
+      "score": 0.0
+    },
+    {
+      "accession": "A0ABM3C299",
+      "rank": 32929,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A1U8HJS3",
+      "rank": 34748,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A1U8IUB2",
+      "rank": 34749,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A1U8JPL1",
+      "rank": 34750,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A6A2WA05",
+      "rank": 34775,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A6A2XZK5",
+      "rank": 34776,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A6A2XZP4",
+      "rank": 34777,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A6A3CDW3",
+      "rank": 34779,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A6A3D225",
+      "rank": 34781,
+      "score": 0.0
+    },
+    {
+      "accession": "A0ABM3BKD4",
+      "rank": 34835,
+      "score": 0.0
+    },
+    {
+      "accession": "A0AAD8IN87",
+      "rank": 36097,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A6A3AG48",
+      "rank": 36170,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A6A2XS54",
+      "rank": 37443,
+      "score": 0.0
+    },
+    {
+      "accession": "A0A1U8M074",
+      "rank": 38404,
+      "score": 0.0
+    }
+  ],
+  "worst_positive_rank": 19,
+  "unreliable_mappings": 25980,
+  "controls_pass": true
+}
